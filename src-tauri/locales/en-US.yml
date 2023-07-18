@@ -1,0 +1,17 @@
+en-US:
+  unableToAccessConfigDirectory: Unable to access config directory
+  createConfigFolderFailed: Create config folder failed
+  wrongLanguageFormat: wrong language format
+  wrongFolderFormat: wrong folder format
+  createWorkspaceFolderFailed: Create workspace folder failed
+  workspaceFolderNotSet: Workspace folder not set
+  failedToInitializeContext: Failed to initialize context
+  failedToConnectToDatabase: Failed to connect to database
+  defaultGroupNotFound: Default group not found
+  folderNotFound: Folder not found
+  folderIsNotInTheSameGroup: Folder is not in the same group
+  theGroupOfTheFolderWasNotFound: The group of the folder was not found
+  folderNotAssociated: Folder not associated
+  articleNotFound: Article not found
+  favoritesNotFound: Favorites not found
+  createArticleFailed: Create article failed

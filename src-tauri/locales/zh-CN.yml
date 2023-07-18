@@ -1,0 +1,17 @@
+zh-CN:
+  unableToAccessConfigDirectory: 无法访问配置文件目录
+  createConfigFolderFailed: 创建配置文件夹失败
+  wrongLanguageFormat: 语言格式错误
+  wrongFolderFormat: 文件夹格式错误
+  createWorkspaceFolderFailed: 创建工作空间文件夹失败
+  workspaceFolderNotSet: 工作空间文件夹未设置
+  failedToInitializeContext: 初始化上下文失败
+  failedToConnectToDatabase: 链接数据库失败
+  defaultGroupNotFound: 未找到默认组
+  folderNotFound: 未找到文件夹
+  folderIsNotInTheSameGroup: 文件夹不在同组
+  theGroupOfTheFolderWasNotFound: 未找到文件夹所在组
+  folderNotAssociated: 文件夹未关联
+  articleNotFound: 文章未找到
+  favoritesNotFound: 收藏未找到
+  createArticleFailed: 创建文章失败
